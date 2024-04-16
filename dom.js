@@ -1,0 +1,9 @@
+const col = document.getElementById("col");
+col.style.backgroundColor = "yellow";
+col.style.margin = "20px";
+col.style.padding = "10px";
+col.style.fontSize = "18px";
+col.style.fontWeight = "bold";
+col.style.height = "200px";
+col.style.width = "300px";
+col.style.color = "blue"
